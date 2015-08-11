@@ -5,7 +5,7 @@
 I've searched for a library like https://github.com/itsmeichigo/ICGVideoTrimmer on android but I can't find any so i've tried to at least create my own implementation and I want to share it.
 It's not as good as intstagram's or this library above. But I think this will do at least for the purpose I needed on my app.</br></br>
 You might have a greater idea for this implementation or to at least optimize so this project is open for improvements. Or if there are existing libraries out there which has the same purpose and function, suggesting them would be great.</br></br>
-<i>The uploaded project is my actual test project. Just get the RangePreview.java at com.optimind.studiotest.views</i>
+<i>The uploaded project is my actual test project. Just get the RangePreview.java at /StudioTest/app/src/main/java/com/optimind/studiotest/views/RangePreview.java</i>
 
 
 
