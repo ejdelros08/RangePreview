@@ -1,6 +1,6 @@
 # RangePreview
 
-<b>RangePreview</b> is a <i>Custom View</i> which acts as a range selector within a specified video showing frames from the video source on each computed interval
+<b>RangePreview</b> is a <i>Custom View</i> which acts as a range selector within a specified video showing frames from the video source on each computed interval; quite similar to Instagram's video trimmer.
 
 I've searched for a library like https://github.com/itsmeichigo/ICGVideoTrimmer on android but I can't find any so i've tried to at least create my own implementation and I want to share it.
 It's not as good as intstagram's or this library above. But I think this will do at least for the purpose I needed on my app.</br></br>
