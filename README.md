@@ -8,15 +8,17 @@ You might have a greater idea for this implementation or to at least optimize so
 <i>The uploaded project is my actual test project. Just get the RangePreview.java at /StudioTest/app/src/main/java/com/optimind/studiotest/views/RangePreview.java</i></br></br>
 
 
-<b>Screenshot:</b></br>
+#Screenshot:</br>
 ![Alt text](https://github.com/ejdelros08/RangePreview/blob/master/sample.png)
 
 
-<b>How to use:</b>
+#How to use:
 
-Copy the ```RangePreview.java``` to your project.
+<b>1.</b> Copy the ```RangePreview.java``` to your project</br>
+and ```img_selector``` to your drawable (/StudioTest/app/src/main/res/drawable-xhdpi)</br>
+then organize your imports.
 
-Just add to your XML
+<b>2.</b> Just add to your XML
 ```xml
 <com.optimind.studiotest.views.RangePreview
         android:id="@+id/range_preview"
@@ -25,7 +27,7 @@ Just add to your XML
         android:layout_weight=".2" />
 ```
 
-Find the view then set arguments:
+<b>3.</b> Find the view then set arguments:
 ```java
 ...
 
