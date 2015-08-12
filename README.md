@@ -63,5 +63,9 @@ protected void onDestroy() {
         mRangePreview.release();
 }
 ```
-
+<b>4.</b> Add required persimissions (for caching)</br>
+```xml
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+```
 I believe the Custom View class is well-documented. Just explore and read to see other public methods available. Thanks
