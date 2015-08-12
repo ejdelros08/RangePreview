@@ -15,7 +15,7 @@ You might have a greater idea for this implementation or to at least optimize so
 #How to use:
 
 <b>1.</b> Copy the ```RangePreview.java``` to your project</br>
-and ```img_selector``` to your drawable (/StudioTest/app/src/main/res/drawable-xhdpi)</br>
+and ```img_selector``` to your drawable ```(located at: /StudioTest/app/src/main/res/drawable-xhdpi)```</br>
 then organize your imports.
 
 <b>2.</b> Just add to your XML
